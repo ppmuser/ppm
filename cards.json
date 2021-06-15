@@ -1,0 +1,18 @@
+ [
+   {
+      "colid": "col-0",
+      "cardid": "1",
+      "cardDetails": {
+        "description": "Kulas Light",
+        "initials": "KN"       
+        }
+      },
+      {
+        "colid": "col-1",
+        "cardid": "2",
+        "cardDetails": {
+          "description": "2-Kulas Light",
+          "initials": "KN"       
+          }
+        }
+  ]
